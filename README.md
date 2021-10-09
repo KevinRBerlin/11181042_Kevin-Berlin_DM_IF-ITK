@@ -1,2 +1,4 @@
 # 11181042_KRB_DM_IF-ITK
-Kuis Data Mining
+Model yang saya gunakan:
+- Decision Tree
+- Naïve Bayes
